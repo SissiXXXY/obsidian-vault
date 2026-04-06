@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Obsidian temp/cache
+.obsidian/cache/
+.obsidian/workspace.json
+
+# Trash
+.trash/
+
+# Logs
+*.log
