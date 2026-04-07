@@ -4,71 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bfca637ce22d224",
+        "id": "1118fe1805d60cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4ca01f3ba80cbc",
+            "id": "16c507117d4d897b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privacy Backplane.md",
+                "file": "CreditGenie Self-Study/Ledger-Service Integration Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privacy Backplane"
-            }
-          },
-          {
-            "id": "1873fcc2f0ca3883",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.7"
-            }
-          },
-          {
-            "id": "bf832d42508d2e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privacy Backplane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Privacy Backplane"
-            }
-          },
-          {
-            "id": "c2fc22cee5259896",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5d3e4cc5fc379f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-04-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-05"
+              "title": "Ledger-Service Integration Test"
             }
           }
         ]
@@ -124,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b33fbfc73cdf9397",
@@ -206,21 +155,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b4ca01f3ba80cbc",
+  "active": "16c507117d4d897b",
   "lastOpenFiles": [
-    "2026-04-05.md",
+    "Computer Science Self-Study/Term List.md",
+    "CreditGenie Self-Study/Ledger-Service Integration Test.md",
     "Dog/To Do & To Buy.md",
+    "Pasted image 20260406114313.png",
+    "Privacy Backplane.md",
+    "2026-04-05.md",
+    "Untitled.base",
+    "Untitled.md",
+    "CreditGenie Self-Study",
+    "Untitled.canvas",
     "Untitled 1",
-    "Dog",
-    "Untitled",
-    "Privacy Backplane.md"
+    "Dog"
   ]
 }
